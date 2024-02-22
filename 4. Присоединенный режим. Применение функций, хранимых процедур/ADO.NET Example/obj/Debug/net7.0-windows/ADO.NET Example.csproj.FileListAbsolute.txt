@@ -1,0 +1,24 @@
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.exe
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.dll.config
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.deps.json
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\ADO.NET Example.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET_Example.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET_Example.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\refint\ADO.NET Example.dll
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ADO.NET Example.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\New\3. Присоединенный режим. Применение функций, хранимых процедур\ADO.NET Example\obj\Debug\net7.0-windows\ref\ADO.NET Example.dll

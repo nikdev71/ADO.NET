@@ -1,0 +1,87 @@
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.Cache
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+C:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.Cache
+D:\БПУ-1211\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csprojResolveAssemblyReference.cache
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csprojResolveAssemblyReference.cache
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\Programming\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.Cache
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csprojResolveAssemblyReference.cache
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\IT Step\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.Cache
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\КА ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csprojAssemblyReference.cache
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.AssemblyReference.cache
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.CoreCompileInputs.cache
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+C:\Users\polyanskiy\Downloads\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.AssemblyReference.cache
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.SuggestedBindingRedirects.cache
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.CoreCompileInputs.cache
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+E:\ШАГ\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\ITSTEP\ADO.NET\Примеры\3. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe.config
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.exe
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\bin\Debug\BLOB.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.exe
+D:\ITSTEP\ADO.NET\Примеры\New\7. Работа с объектами BLOB\BLOB\BLOB\obj\Debug\BLOB.pdb

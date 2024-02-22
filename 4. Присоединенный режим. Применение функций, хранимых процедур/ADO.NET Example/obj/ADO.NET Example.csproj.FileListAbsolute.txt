@@ -1,0 +1,8 @@
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Учебный процесс\C#\C#Projects\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.pdb

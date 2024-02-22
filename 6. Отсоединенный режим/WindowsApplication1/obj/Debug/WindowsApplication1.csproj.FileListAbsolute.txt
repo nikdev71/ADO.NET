@@ -1,0 +1,117 @@
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\6. Взаимодействие с данными\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Учебный процесс\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Vitaliy\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\polyanskiy\Desktop\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\СПУ-1111\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\СПУ-1111\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\5. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\БПУ-1211\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Programming\ADO.NET\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\polyanskiy\Desktop\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\polyanskiy\Desktop\Примеры\4. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\IT Step\ADO.NET\Примеры\5. Отсоединенный режим\2. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\КА ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.AssemblyReference.cache
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.SuggestedBindingRedirects.cache
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\ШАГ\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\ITSTEP\ADO.NET\Примеры\6. Отсоединенный режим\1. Обновление источника данных\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

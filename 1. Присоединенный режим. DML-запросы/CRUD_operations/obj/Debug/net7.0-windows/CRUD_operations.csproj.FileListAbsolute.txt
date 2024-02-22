@@ -1,0 +1,48 @@
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.exe
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.deps.json
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.runtimeconfig.json
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.pdb
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.Form1.resources
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.CopyComplete
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\refint\CRUD_operations.dll
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.pdb
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CRUD_operations\CRUD_operations\obj\Debug\net7.0-windows\ref\CRUD_operations.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.exe
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.deps.json
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\CRUD_operations.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\refint\CRUD_operations.dll
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.pdb
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\CRUD_operations.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\New\1. Присоединенный режим. DML-запросы\CRUD_operations\obj\Debug\net7.0-windows\ref\CRUD_operations.dll

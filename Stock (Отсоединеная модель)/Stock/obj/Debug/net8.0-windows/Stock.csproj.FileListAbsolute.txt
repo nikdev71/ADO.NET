@@ -1,0 +1,78 @@
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\Stock.exe
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\Stock.deps.json
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\Stock.runtimeconfig.json
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\Stock.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\Stock.pdb
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\App.g.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock_MarkupCompile.cache
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock_MarkupCompile.lref
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.g.resources
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.AssemblyInfo.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.sourcelink.json
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.dll
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\refint\Stock.dll
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.pdb
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.genruntimeconfig.cache
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\ref\Stock.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock\Stock\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\Stock.csproj.CopyComplete
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditProduct.g.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditProduct.baml
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditProductType.g.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditProductType.baml
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditSupplier.g.cs
+D:\Проекты\ADO.NET\Stock\Stock\obj\Debug\net8.0-windows\EditSupplier.baml
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Stock.exe
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Stock.deps.json
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Stock.runtimeconfig.json
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Stock.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Stock.pdb
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditProduct.g.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditProductType.g.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditSupplier.g.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\App.g.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock_MarkupCompile.cache
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock_MarkupCompile.lref
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditProduct.baml
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditProductType.baml
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\EditSupplier.baml
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.g.resources
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.AssemblyInfo.cs
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.sourcelink.json
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.csproj.CopyComplete
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\refint\Stock.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.pdb
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.genruntimeconfig.cache
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\ref\Stock.dll
