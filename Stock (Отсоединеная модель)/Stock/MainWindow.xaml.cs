@@ -45,19 +45,6 @@ namespace Stock
             string connectionString = config.GetConnectionString("DefaultConnection");
             connect = new SqlConnection(connectionString);
         }
-        //void ConnectionToServer()
-        //{
-        //    command = new SqlCommand();
-        //    try
-        //    {
-        //        Create_Tables();
-        //        menu.IsEnabled = true;
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        MessageBox.Show(ex.Message);
-        //    }
-        //}
         private void Create_Tables()
         {
             try
@@ -96,8 +83,6 @@ namespace Stock
                 FK_Type.DeleteRule = Rule.Cascade;
                 FK_Type.UpdateRule = Rule.Cascade;
                 adapter1.Fill(dataset, "Products");
-                DataGrid1.ItemsSource = Products.DefaultView;
-
 
 
                 adapter3 = new SqlDataAdapter("select * from Suppliers", connect);
@@ -124,6 +109,8 @@ namespace Stock
                 flag = true;
                 menu.IsEnabled = true;
 
+                TableProduct();
+
             }
             catch (Exception ex)
             {
@@ -135,15 +122,6 @@ namespace Stock
             Create_Tables();
             Button btn = (Button)sender;
             btn.IsEnabled = false;
-        }
-        private void SelectFromDB(string select)
-        {
-            command.CommandText = select;
-            SqlDataReader reader = command.ExecuteReader();
-            DataTable dt = new DataTable();
-            dt.Load(reader);
-            DataGrid1.ItemsSource = dt.DefaultView;
-            reader.Close();
         }
         private void Button_PreviewMouseDown(object sender, MouseButtonEventArgs e)
         {
@@ -170,6 +148,18 @@ namespace Stock
         {
             try
             {
+                SqlDataAdapter adapter = new SqlDataAdapter();
+
+                SqlCommand command = new SqlCommand("SELECT Products.ID, Products.ProductTitle, ProductType.Type AS ProductType, Products.Cost, Products.Quantity " +
+                                          "FROM Products " +
+                                          "INNER JOIN ProductType ON Products.TypeID = ProductType.ID", connect);
+
+                adapter.SelectCommand = command;
+
+                DataSet dataset = new DataSet();
+
+                adapter.Fill(dataset, "Products");
+
                 int res = Convert.ToInt32(dataset.Tables["Products"].Compute(func + "(" + param + ")", string.Empty));
 
                 DataRow[] rows = dataset.Tables["Products"].Select(param + " = " + res);
@@ -268,10 +258,41 @@ namespace Stock
             dataset.Tables[tablename].Rows[id].Delete();
             DataGrid1.ItemsSource = dataset.Tables[tablename].DefaultView;
         }
+        void TableProduct()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter();
 
+            SqlCommand command = new SqlCommand("SELECT Products.ID, Products.ProductTitle, ProductType.Type AS ProductType, Products.Cost, Products.Quantity " +
+                                      "FROM Products " +
+                                      "INNER JOIN ProductType ON Products.TypeID = ProductType.ID", connect);
+
+            adapter.SelectCommand = command;
+
+            DataSet dataset = new DataSet();
+
+            adapter.Fill(dataset, "Products");
+
+            DataGrid1.ItemsSource = dataset.Tables["Products"].DefaultView;
+        }
+        void TableSuppliers()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter();
+
+            SqlCommand command = new SqlCommand("SELECT Suppliers.ID, Suppliers.SupplierName, Products.ProductTitle AS ProductTitle, DeliveryDate " +
+                                      "FROM Suppliers " +
+                                      "INNER JOIN Products ON Products.ID = Suppliers.ProductID", connect);
+
+            adapter.SelectCommand = command;
+
+            DataSet dataset = new DataSet();
+
+            adapter.Fill(dataset, "Suppliers");
+
+            DataGrid1.ItemsSource = dataset.Tables["Suppliers"].DefaultView;
+        }
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            PrintTable("Products");
+            TableProduct();
         }
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
@@ -279,7 +300,7 @@ namespace Stock
         }
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            PrintTable("Suppliers");
+            TableSuppliers();
         }
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
@@ -330,7 +351,7 @@ namespace Stock
         }
         private void ls1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (button == btnAllinfo || button == btnMAXQ || button == btnMINQ || button == btnMAXC || button == btnMINC || button == btnOld || button == btnPrCat || button == btnCurSupp)
+            if (button == btnAllinfo )
             {
                 if (DataGrid1.SelectedItem != null)
                 {
@@ -403,13 +424,12 @@ namespace Stock
                 row["Cost"] = ProductCostTemp;
                 row["Quantity"] = ProductQuantityTemp;
                 dataset.Tables["Products"].Rows.Add(row);
-                DataGrid1.ItemsSource = dataset.Tables["Products"].DefaultView;
 
                 adapter1.Update(dataset, "Products");
                 MessageBox.Show("Product addded");
+                TableProduct();
+                button = btnAllinfo;
             }
-
-
         }
 
         private void MenuItem_Click_1(object sender, RoutedEventArgs e)
@@ -418,11 +438,11 @@ namespace Stock
             DataRowView selectedRow = (DataRowView)DataGrid1.SelectedItem;
             int id = Convert.ToInt32(selectedRow["ID"]);
             string title = selectedRow["ProductTitle"].ToString();
-            int typeid = Convert.ToInt32(selectedRow["TypeID"]);
+            string type = selectedRow["ProductType"].ToString();
             int cost = Convert.ToInt32(selectedRow["Cost"]);
             int quan = Convert.ToInt32(selectedRow["Quantity"]);
             Dictionary<int, string> typeDictionary = Types();
-            EditProduct form = new EditProduct(typeDictionary,typeid,title,cost,quan ,true, id);
+            EditProduct form = new EditProduct(typeDictionary,type,title,cost,quan ,true, id);
             form.Owner = this;
             bool? res = form.ShowDialog();
             if (res == true)
@@ -434,21 +454,24 @@ namespace Stock
                     row[0]["TypeID"] = ProductTypeIDTemp;
                     row[0]["Cost"] = ProductCostTemp;
                     row[0]["Quantity"] = ProductQuantityTemp;
-                    DataGrid1.ItemsSource = dataset.Tables["Products"].DefaultView;
 
                     adapter1.Update(dataset, "Products");
+                    TableProduct();
                 }
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
                 }
             }
+            button = btnAllinfo;
 
         }
         private void MenuItem_Click_2(object sender, RoutedEventArgs e)
         {
             DeleteFunc("Products");
             adapter1.Update(dataset, "Products");
+            TableProduct();
+            button = btnAllinfo;
         }
         #endregion
 
@@ -468,7 +491,7 @@ namespace Stock
                 adapter2.Update(dataset, "ProductType");
                 MessageBox.Show("Added product type");
             }
-            
+            button = btnAlltypes;
         }
 
         private void edittypes_Click(object sender, RoutedEventArgs e)
@@ -496,13 +519,14 @@ namespace Stock
                     MessageBox.Show(ex.Message);
                 }
             }
-            
+            button = btnAlltypes;
         }
 
         private void deletetypes_Click(object sender, RoutedEventArgs e)
         {
             DeleteFunc("ProductType");
             adapter2.Update(dataset, "ProductType");
+            button = btnAlltypes;
         }
         #endregion
 
@@ -520,10 +544,11 @@ namespace Stock
                 row["ProductID"] = ProductIDTemp;
                 row["DeliveryDate"] = DeliveryDateTemp;
                 dataset.Tables["Suppliers"].Rows.Add(row);
-                DataGrid1.ItemsSource = dataset.Tables["Suppliers"].DefaultView;
 
                 adapter3.Update(dataset, "Suppliers");
                 MessageBox.Show("Added supplier");
+                TableSuppliers();
+                button = btnAllSupp;
             }
         }
 
@@ -533,11 +558,11 @@ namespace Stock
             DataRowView selectedRow = (DataRowView)DataGrid1.SelectedItem;
             int id = Convert.ToInt32(selectedRow["ID"]);
             string name = selectedRow["SupplierName"].ToString();
-            int ProductID = Convert.ToInt32(selectedRow["ProductID"]);
+            string ProductTitle = selectedRow["ProductTitle"].ToString();
             string date = selectedRow["DeliveryDate"].ToString();
             Dictionary<int, string> PrDictionary = ProductsPair();
 
-            EditSupplier form = new EditSupplier(PrDictionary,ProductID,name,date,true, id);
+            EditSupplier form = new EditSupplier(PrDictionary,ProductTitle,name,date,true, id);
             form.Owner = this;
             bool? res = form.ShowDialog();
             if (res == true)
@@ -548,25 +573,26 @@ namespace Stock
                     row[0]["SupplierName"] = SupplierNameTemp;
                     row[0]["ProductID"] = ProductIDTemp;
                     row[0]["DeliveryDate"] = DeliveryDateTemp;
-                    DataGrid1.ItemsSource = dataset.Tables["Suppliers"].DefaultView;
 
                     adapter3.Update(dataset, "Suppliers");
                     MessageBox.Show("Edited supplier");
-
+                    TableSuppliers();
                 }
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
                 }
             }
-
-                
+            button = btnAllSupp;
         }
 
         private void deletesupp_Click(object sender, RoutedEventArgs e)
         {
             DeleteFunc("Suppliers");
             adapter3.Update(dataset, "Suppliers");
+            TableSuppliers();
+            button = btnAllSupp;
+
         }
         #endregion
     }

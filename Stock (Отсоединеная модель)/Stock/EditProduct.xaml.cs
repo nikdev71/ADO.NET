@@ -26,7 +26,7 @@ namespace Stock
         bool Edit;
         int ID;
         Dictionary<int, string> types;
-        public EditProduct( Dictionary<int, string> types,int typeid=0, string title="", int cost=0, int quantity=0, bool Edit = false, int ID = 0)
+        public EditProduct( Dictionary<int, string> types,string typestr="", string title="", int cost=0, int quantity=0, bool Edit = false, int ID = 0)
         {
             InitializeComponent();
             this.Edit = Edit;
@@ -40,7 +40,7 @@ namespace Stock
             {
                 TypePr.Items.Add(type.Value);
 
-                if (type.Key == typeid)
+                if (type.Value == typestr)
                 {
                     TypePr.SelectedItem = type.Value;
                 }

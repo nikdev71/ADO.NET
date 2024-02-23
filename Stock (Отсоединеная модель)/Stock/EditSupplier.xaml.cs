@@ -27,7 +27,7 @@ namespace Stock
         int ID;
         Dictionary<int, string> products;
 
-        public EditSupplier(Dictionary<int, string> products,int prkey=0,string name= "",string date="yyyy-MM-dd",bool Edit = false, int ID = 0)
+        public EditSupplier(Dictionary<int, string> products,string prtitle="",string name= "",string date="yyyy-MM-dd",bool Edit = false, int ID = 0)
         {
             InitializeComponent();
             this.Edit = Edit;
@@ -41,7 +41,7 @@ namespace Stock
             {
                 PrID.Items.Add(pr.Value);
 
-                if (pr.Key == prkey)
+                if (pr.Value == prtitle)
                 {
                     PrID.SelectedItem = pr.Value;
                 }
