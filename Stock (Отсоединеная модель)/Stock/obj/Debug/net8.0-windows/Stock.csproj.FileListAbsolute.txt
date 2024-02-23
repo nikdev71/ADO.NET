@@ -76,3 +76,4 @@ D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\ob
 D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.pdb
 D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\Stock.genruntimeconfig.cache
 D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\obj\Debug\net8.0-windows\ref\Stock.dll
+D:\Проекты\ADO.NET\Stock (Отсоединеная модель)\Stock\bin\Debug\net8.0-windows\appsettings.json

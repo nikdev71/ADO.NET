@@ -85,7 +85,7 @@ namespace Stock {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Stock;component/editsupplier.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Stock;V1.0.0.0;component/editsupplier.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\EditSupplier.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
