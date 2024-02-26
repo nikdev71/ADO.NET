@@ -1,0 +1,30 @@
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.exe
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.deps.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.runtimeconfig.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.AssemblyInfo.cs
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\refint\3. Projection.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.genruntimeconfig.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\ref\3. Projection.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.csproj.AssemblyReference.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\refint\3. Projection.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\bin\Debug\net7.0\3. Projection.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\3. Projection.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\3. Projection\obj\Debug\net7.0\ref\3. Projection.dll

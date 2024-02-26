@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\ref\2. Lazy Load в LINQ.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net5.0\2. Lazy Load в LINQ.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\ref\2. Lazy Load в LINQ.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.genruntimeconfig.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net5.0\2. Lazy Load в LINQ.csprojAssemblyReference.cache

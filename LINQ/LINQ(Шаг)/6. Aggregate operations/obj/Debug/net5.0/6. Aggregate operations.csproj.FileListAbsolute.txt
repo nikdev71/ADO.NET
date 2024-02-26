@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\ref\6. Aggregate operations.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\bin\Debug\net5.0\6. Aggregate operations.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\ref\6. Aggregate operations.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.genruntimeconfig.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\6. Aggregate operations\obj\Debug\net5.0\6. Aggregate operations.csprojAssemblyReference.cache

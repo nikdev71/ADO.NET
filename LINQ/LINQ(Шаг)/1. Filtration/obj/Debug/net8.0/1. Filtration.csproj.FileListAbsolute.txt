@@ -1,0 +1,14 @@
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\bin\Debug\net8.0\1. Filtration.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\bin\Debug\net8.0\1. Filtration.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\bin\Debug\net8.0\1. Filtration.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\bin\Debug\net8.0\1. Filtration.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\bin\Debug\net8.0\1. Filtration.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\refint\1. Filtration.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\1. Filtration.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\1. Filtration\obj\Debug\net8.0\ref\1. Filtration.dll

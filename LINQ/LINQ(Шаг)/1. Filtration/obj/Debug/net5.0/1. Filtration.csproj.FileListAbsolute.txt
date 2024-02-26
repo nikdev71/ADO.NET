@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\ref\1. Filtration.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\bin\Debug\net5.0\1. Filtration.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.csprojAssemblyReference.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\ref\1. Filtration.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\1. Filtration\obj\Debug\net5.0\1. Filtration.genruntimeconfig.cache

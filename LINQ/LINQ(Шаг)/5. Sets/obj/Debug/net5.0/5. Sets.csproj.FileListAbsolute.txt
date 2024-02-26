@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\ref\5. Sets.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\bin\Debug\net5.0\5. Sets.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\ref\5. Sets.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.genruntimeconfig.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\5. Sets\obj\Debug\net5.0\5. Sets.csprojAssemblyReference.cache

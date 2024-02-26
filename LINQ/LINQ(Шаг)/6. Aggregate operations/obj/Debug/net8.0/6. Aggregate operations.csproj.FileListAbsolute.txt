@@ -1,0 +1,14 @@
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\bin\Debug\net8.0\6. Aggregate operations.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\bin\Debug\net8.0\6. Aggregate operations.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\bin\Debug\net8.0\6. Aggregate operations.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\bin\Debug\net8.0\6. Aggregate operations.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\bin\Debug\net8.0\6. Aggregate operations.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\refint\6. Aggregate operations.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\6. Aggregate operations.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\6. Aggregate operations\obj\Debug\net8.0\ref\6. Aggregate operations.dll

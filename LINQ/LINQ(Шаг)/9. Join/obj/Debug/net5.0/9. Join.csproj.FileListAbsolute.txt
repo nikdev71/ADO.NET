@@ -1,0 +1,15 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\ref\9. Join.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\bin\Debug\net5.0\9. Join.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\ref\9. Join.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\9. Join\obj\Debug\net5.0\9. Join.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\bin\Debug\net8.0\8. Grouping.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\bin\Debug\net8.0\8. Grouping.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\bin\Debug\net8.0\8. Grouping.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\bin\Debug\net8.0\8. Grouping.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\bin\Debug\net8.0\8. Grouping.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\refint\8. Grouping.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\8. Grouping.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\8. Grouping\obj\Debug\net8.0\ref\8. Grouping.dll

@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\ref\4. Sorting.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\bin\Debug\net5.0\4. Sorting.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\ref\4. Sorting.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.genruntimeconfig.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\4. Sorting\obj\Debug\net5.0\4. Sorting.csprojAssemblyReference.cache

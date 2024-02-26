@@ -1,0 +1,29 @@
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.exe
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.deps.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.runtimeconfig.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.AssemblyInfo.cs
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\refint\9. Join.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.genruntimeconfig.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\ref\9. Join.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\bin\Debug\net7.0\9. Join.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\refint\9. Join.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\9. Join.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\9. Join\obj\Debug\net7.0\ref\9. Join.dll

@@ -1,0 +1,30 @@
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.exe
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.deps.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.runtimeconfig.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.AssemblyInfo.cs
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\refint\5. Sets.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.genruntimeconfig.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\ref\5. Sets.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\bin\Debug\net7.0\5. Sets.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.csproj.AssemblyReference.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\refint\5. Sets.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\5. Sets.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\5. Sets\obj\Debug\net7.0\ref\5. Sets.dll

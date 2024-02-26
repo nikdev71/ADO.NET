@@ -1,0 +1,14 @@
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net8.0\2. Lazy Load в LINQ.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net8.0\2. Lazy Load в LINQ.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net8.0\2. Lazy Load в LINQ.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net8.0\2. Lazy Load в LINQ.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\bin\Debug\net8.0\2. Lazy Load в LINQ.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\refint\2. Lazy Load в LINQ.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\2. Lazy Load в LINQ.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\2. Lazy Load в LINQ\obj\Debug\net8.0\ref\2. Lazy Load в LINQ.dll

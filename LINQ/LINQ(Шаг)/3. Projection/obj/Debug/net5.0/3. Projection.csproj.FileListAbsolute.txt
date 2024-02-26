@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\ref\3. Projection.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\bin\Debug\net5.0\3. Projection.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.csprojAssemblyReference.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\ref\3. Projection.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\3. Projection\obj\Debug\net5.0\3. Projection.genruntimeconfig.cache

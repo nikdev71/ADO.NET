@@ -1,0 +1,16 @@
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.exe
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.deps.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.runtimeconfig.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.runtimeconfig.dev.json
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\ref\7. Skip and Take methods.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\bin\Debug\net5.0\7. Skip and Take methods.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.AssemblyInfoInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.AssemblyInfo.cs
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.csproj.CoreCompileInputs.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\ref\7. Skip and Take methods.dll
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.pdb
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.genruntimeconfig.cache
+E:\ШАГ\Язык C# и платформа .NET Core\Примеры\17. LINQ\LINQ\7. Skip and Take methods\obj\Debug\net5.0\7. Skip and Take methods.csprojAssemblyReference.cache

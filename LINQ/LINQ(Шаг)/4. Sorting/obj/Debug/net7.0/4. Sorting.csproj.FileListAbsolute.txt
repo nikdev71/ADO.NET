@@ -1,0 +1,30 @@
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.exe
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.deps.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.runtimeconfig.json
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.AssemblyInfo.cs
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\refint\4. Sorting.dll
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.pdb
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.genruntimeconfig.cache
+C:\Users\Admin\Downloads\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\ref\4. Sorting.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.exe
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.deps.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.runtimeconfig.json
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\bin\Debug\net7.0\4. Sorting.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.csproj.AssemblyReference.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.AssemblyInfoInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.AssemblyInfo.cs
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.csproj.CoreCompileInputs.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\refint\4. Sorting.dll
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.pdb
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\4. Sorting.genruntimeconfig.cache
+D:\ITSTEP\Платформа Microsoft.NET и язык программирования C#\Примеры\19. LINQ\LINQ\4. Sorting\obj\Debug\net7.0\ref\4. Sorting.dll
