@@ -1,0 +1,15 @@
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\bin\Debug\net8.0\AcademyGroupContextLibrary.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\bin\Debug\net8.0\AcademyGroupContextLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\bin\Debug\net8.0\AcademyGroupContextLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\bin\Debug\net8.0\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\bin\Debug\net8.0\AcademyGroupLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\refint\AcademyGroupContextLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\AcademyGroupContextLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupContextLibrary\obj\Debug\net8.0\ref\AcademyGroupContextLibrary.dll

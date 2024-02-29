@@ -1,0 +1,11 @@
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\bin\Debug\net8.0\AcademyGroupLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\refint\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\AcademyGroupLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\5. Многомодульная архитектура\CodeFirst\AcademyGroupLibrary\obj\Debug\net8.0\ref\AcademyGroupLibrary.dll

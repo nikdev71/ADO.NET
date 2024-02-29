@@ -1,0 +1,13 @@
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\bin\Debug\net8.0\CountriesDBLibrary.deps.json
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\bin\Debug\net8.0\CountriesDBLibrary.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\bin\Debug\net8.0\CountriesDBLibrary.pdb
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.AssemblyInfo.cs
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.sourcelink.json
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\refint\CountriesDBLibrary.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\CountriesDBLibrary.pdb
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesDBLibrary\obj\Debug\net8.0\ref\CountriesDBLibrary.dll

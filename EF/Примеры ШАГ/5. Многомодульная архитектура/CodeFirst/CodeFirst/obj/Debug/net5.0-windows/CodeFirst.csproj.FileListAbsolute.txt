@@ -1,0 +1,168 @@
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.exe
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.deps.json
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.json
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.dev.json
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\ref\CodeFirst.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.Form1.resources
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.GenerateResource.cache
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfo.cs
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CopyComplete
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\ref\CodeFirst.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.pdb
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.genruntimeconfig.cache
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Castle.Core.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Виталий\Downloads\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.AssemblyReference.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.exe
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.deps.json
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.json
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.dev.json
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Castle.Core.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.AssemblyReference.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.Form1.resources
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.GenerateResource.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfoInputs.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfo.cs
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CopyComplete
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\ref\CodeFirst.dll
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.pdb
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.genruntimeconfig.cache
+E:\ШАГ\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\refint\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.exe
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.runtimeconfig.dev.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Castle.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\refint\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\CodeFirst.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net5.0-windows\ref\CodeFirst.dll

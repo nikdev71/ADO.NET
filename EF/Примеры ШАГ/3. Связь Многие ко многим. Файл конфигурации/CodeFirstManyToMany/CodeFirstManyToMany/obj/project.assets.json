@@ -3537,24 +3537,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nikit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITSTEP\\ADO.NET\\Примеры\\Entity Framework Core\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\CodeFirstManyToMany.csproj",
+      "projectUniqueName": "D:\\Проекты\\ADO.NET\\EF\\Примеры ШАГ\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\CodeFirstManyToMany.csproj",
       "projectName": "CodeFirstManyToMany",
-      "projectPath": "D:\\ITSTEP\\ADO.NET\\Примеры\\Entity Framework Core\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\CodeFirstManyToMany.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ITSTEP\\ADO.NET\\Примеры\\Entity Framework Core\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\obj\\",
+      "projectPath": "D:\\Проекты\\ADO.NET\\EF\\Примеры ШАГ\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\CodeFirstManyToMany.csproj",
+      "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+      "outputPath": "D:\\Проекты\\ADO.NET\\EF\\Примеры ШАГ\\3. Связь Многие ко многим. Файл конфигурации\\CodeFirstManyToMany\\CodeFirstManyToMany\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

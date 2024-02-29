@@ -1,0 +1,190 @@
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.exe
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\refint\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\ref\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\1. Создание БД на основе модели. Ленивая загрузка\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.exe
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\refint\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\ref\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\appsettings.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupContextLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupContextLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\appsettings.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.exe
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupContextLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupContextLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\bin\Debug\net7.0-windows\AcademyGroupLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\refint\CodeFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\CodeFirst.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\3. Многомодульная архитектура\CodeFirst\CodeFirst\obj\Debug\net7.0-windows\ref\CodeFirst.dll

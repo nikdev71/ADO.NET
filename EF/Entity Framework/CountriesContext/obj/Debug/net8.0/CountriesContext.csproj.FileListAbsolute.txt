@@ -1,0 +1,16 @@
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\bin\Debug\net8.0\CountriesContext.deps.json
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\bin\Debug\net8.0\CountriesContext.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\bin\Debug\net8.0\CountriesContext.pdb
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\bin\Debug\net8.0\CountriesDBLibrary.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\bin\Debug\net8.0\CountriesDBLibrary.pdb
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.AssemblyInfo.cs
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.sourcelink.json
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.csproj.CopyComplete
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\refint\CountriesContext.dll
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\CountriesContext.pdb
+D:\Проекты\ADO.NET\EF\Entity Framework\CountriesContext\obj\Debug\net8.0\ref\CountriesContext.dll

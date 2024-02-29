@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirst.LazyLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe85b2c84a8c25a45ebcf686a43b301986b2a8ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59d7ec95a375e2f9e433f7bbc240c4d4bab5bf61")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirst.LazyLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirst.LazyLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
