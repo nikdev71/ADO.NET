@@ -1,0 +1,168 @@
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.exe
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.deps.json
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.json
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.dev.json
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\ref\DatabaseFirst.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfo.cs
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CopyComplete
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\ref\DatabaseFirst.dll
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.pdb
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.genruntimeconfig.cache
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.Form1.resources
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.GenerateResource.cache
+C:\Users\Виталий\Downloads\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.AssemblyReference.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.exe
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.deps.json
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.json
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.dev.json
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Humanizer.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.AssemblyReference.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.Form1.resources
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.GenerateResource.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfoInputs.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfo.cs
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CoreCompileInputs.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CopyComplete
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\refint\DatabaseFirst.dll
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.pdb
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.genruntimeconfig.cache
+E:\ШАГ\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\ref\DatabaseFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.exe
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.runtimeconfig.dev.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\DatabaseFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Humanizer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\refint\DatabaseFirst.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\DatabaseFirst.genruntimeconfig.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\2. Подключение к существующей БД\DatabaseFirst\DatabaseFirst\obj\Debug\net5.0-windows\ref\DatabaseFirst.dll
