@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirst.EagerLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fffa579ddef563cf11816ceeaa3e777ddf79535")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirst.EagerLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirst.EagerLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
