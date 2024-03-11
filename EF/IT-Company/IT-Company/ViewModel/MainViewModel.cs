@@ -339,7 +339,6 @@ namespace IT_Company.ViewModel
                         db.JobPositions.RemoveRange(jpDelete);
                         db.SaveChanges();
 
-                        Jobs.Remove(new JobPositionViewModel(jpDelete));
                         var staffToDelete = originalStaff.Where(s => s.JobTitle == jpDelete.Title).ToList();
                         foreach(var staff in staffToDelete)
                         {
@@ -347,6 +346,7 @@ namespace IT_Company.ViewModel
 
                         }
                         Staff = new ObservableCollection<EmployeeViewModel>(originalStaff);
+                        Jobs = new ObservableCollection<JobPositionViewModel>(db.JobPositions.Select(s => new JobPositionViewModel(s)));
                     }
                     MessageBox.Show("Job position deleted");
                 }
@@ -515,6 +515,8 @@ namespace IT_Company.ViewModel
                     db.JobPositions.Update(query);
                     db.SaveChanges();
                     Jobs[SelectedJobIndex] = new JobPositionViewModel(query);
+                    originalStaff = new ObservableCollection<EmployeeViewModel>(db.Employees.Select(e => new EmployeeViewModel(e)));
+                    Staff = new ObservableCollection<EmployeeViewModel>(originalStaff);
                     IsAddJobPanel = "Collapsed";
                     MessageBox.Show("Job position edited");
                 }
