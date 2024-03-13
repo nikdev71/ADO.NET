@@ -1,0 +1,15 @@
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\bin\Debug\net8.0\AcademyGroupContextLib.deps.json
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\bin\Debug\net8.0\AcademyGroupContextLib.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\bin\Debug\net8.0\AcademyGroupContextLib.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\bin\Debug\net8.0\StudentLibrary.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\bin\Debug\net8.0\StudentLibrary.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.AssemblyInfoInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.AssemblyInfo.cs
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.csproj.CopyComplete
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\refint\AcademyGroupContextLib.dll
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\AcademyGroupContextLib.pdb
+D:\ITSTEP\ADO.NET\Примеры\Entity Framework Core\10. Управление схемой БД и миграции\CodeFirst\AcademyGroupContextLib\obj\Debug\net8.0\ref\AcademyGroupContextLib.dll
