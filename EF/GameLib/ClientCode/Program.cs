@@ -17,7 +17,6 @@ namespace CodeFirstManyToMany
                 using (GameContextDB db = new GameContextDB())
                 {
                     //первая миграция
-
                     List<Game> games = db.Games.ToList();
 
                     if (games == null || games.Count == 0 )
@@ -36,7 +35,7 @@ namespace CodeFirstManyToMany
 
                         Game game1 = new Game { Title = "Paraworld", Studio=studio1,Genres = new List<Genre> { genre1 } , ReleaseDate = new DateTime(2006,9,15) };
                         Game game2 = new Game { Title = "Aion", Studio=studio2,Genres = new List<Genre> { genre2,genre3 } , ReleaseDate = new DateTime(2008,11,25) };
-                        Game game3 = new Game { Title = "Counter Strike", Studio=studio1,Genres = new List<Genre> { genre2 } , ReleaseDate = new DateTime(2000,11,8) };
+                        Game game3 = new Game { Title = "Counter Strike", Studio = studio1, Genres = new List<Genre> { genre2 }, ReleaseDate = new DateTime (2000,11,8) };
                         db.Games.Add(game1);
                         db.Games.Add(game2);
                         db.Games.Add(game3);
