@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stationery(Procedure)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fadd9567e8f3d3ed2606f1f8837cd13977352fef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+938522818256ee97878c62045c92e01f181920c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stationery(Procedure)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stationery(Procedure)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

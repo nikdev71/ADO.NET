@@ -25,13 +25,11 @@ namespace Stationery_Procedure_
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-           
-                using (StationeryContext db = new StationeryContext())
-                {
-                    var stationery = db.Stationeries.FromSqlRaw("select Id, Title, Quantity, Cost from Stationery").Include(s=>s.Type).ToList();
-                    DataGrid1.ItemsSource = stationery;
-                }
-           
+            using (StationeryContext db = new StationeryContext())
+            {
+                var stationery = db.Stationeries.FromSqlRaw("select Id, Title, Quantity, Cost from Stationery").Include(s=>s.Type).ToList();
+                DataGrid1.ItemsSource = stationery;
+            }
         }
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)

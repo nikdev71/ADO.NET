@@ -1,0 +1,31 @@
+﻿<Window x:Class="Stationery.Firms"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stationery"
+        mc:Ignorable="d"
+        Title="Firms" Height="230" Width="300" MinWidth="200" MinHeight="200">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="20 0 0 0"></Setter>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Name="Head" Grid.ColumnSpan="2" Text="Add Firms" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="1" Text="Title"></TextBlock>
+        <TextBox Name="TitlePr" Grid.Row="1" Grid.Column="1" Margin="20"></TextBox>
+        <Button Grid.Row="2" Content="Submit" Margin="20" Click="Button_Click"></Button>
+        <Button Grid.Row="2" Grid.Column="1" Content="Cancel" Margin="20" Click="Button_Click_1"></Button>
+    </Grid>
+</Window>

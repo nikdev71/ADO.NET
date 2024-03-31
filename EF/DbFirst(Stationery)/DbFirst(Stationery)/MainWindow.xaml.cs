@@ -168,8 +168,6 @@ namespace DbFirst_Stationery_
             editman.IsEnabled = false;
         }
 
-
-
         private void DataGrid1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (lastbtn == stat)

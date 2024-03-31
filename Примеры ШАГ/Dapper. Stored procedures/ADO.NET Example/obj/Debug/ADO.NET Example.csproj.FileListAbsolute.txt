@@ -1,0 +1,156 @@
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\Взаимодействие с БД через ADONET\ADO.NET Example\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Учебный процесс\C#\Технологии взаимодействия с базами данных\3. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Учебный процесс\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Polyanskiy\Рабочий стол\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\СПУ-1111\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\Учебный процесс\Технологии взаимодействия с БД\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\Учебный процесс\Технологии взаимодействия с БД\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojResolveAssemblyReference.cache
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\БПУ-1211\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojResolveAssemblyReference.cache
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\Programming\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojResolveAssemblyReference.cache
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Users\polyanskiy\Desktop\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+D:\Vitaliy\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojResolveAssemblyReference.cache
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojResolveAssemblyReference.cache
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\IT Step\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.Cache
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.cache
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe.config
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe.config
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csprojAssemblyReference.cache
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.cache
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\КА ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe.config
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.cache
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.CoreCompileInputs.cache
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+C:\Users\polyanskiy\Downloads\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.AssemblyReference.cache
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.AssemblyReference.cache
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.SuggestedBindingRedirects.cache
+E:\ШАГ\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe.config
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\ITSTEP\ADO.NET\Примеры\2. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe.config
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.exe
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\bin\Debug\ADO.NET Example.pdb
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.AssemblyReference.cache
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Form1.resources
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET_Example.Properties.Resources.resources
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.GenerateResource.cache
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.exe
+D:\ITSTEP\ADO.NET\Примеры\1. ADO.NET. Пример взаимодействия с БД. Присоединенный режим\ADO.NET Example\obj\Debug\ADO.NET Example.pdb
