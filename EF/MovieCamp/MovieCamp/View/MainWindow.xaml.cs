@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using MovieCamp.Model;
+using MovieCamp.ViewModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +21,11 @@ namespace MovieCamp
         public MainWindow()
         {
             InitializeComponent();
+            using (var db = new MovieCampContext())
+            {
+                var quert = db.Movies.Select(x => x);
+                DataContext = new MainVM(quert);
+            }
         }
     }
 }

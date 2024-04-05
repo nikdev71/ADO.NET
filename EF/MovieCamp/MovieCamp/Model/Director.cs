@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MovieCamp.Model
 {
-    internal class Director
+    public class Director
     {
         public int Id { get; set; }
         public string Name { get; set; }

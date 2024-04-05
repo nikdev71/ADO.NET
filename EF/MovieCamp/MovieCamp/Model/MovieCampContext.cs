@@ -33,7 +33,44 @@ namespace MovieCamp.Model
         public MovieCampContext() : base(_options)
         {
             //Database.EnsureDeleted();
-            Database.EnsureCreated();
+            if (Database.EnsureCreated())
+            {
+                var kubrick = new Director { Name = "Stanley", LastName = "Kubrick", Age = 59 };
+                var tarantino = new Director { Name = "Quentin", LastName = "Tarantino", Age = 57 };
+                Directors?.AddRange(kubrick, tarantino);
+
+                var action = new Genre { Title = "Action" };
+                var comedy = new Genre { Title = "Comedy" };
+                var horror = new Genre { Title = "Horror" };
+                var crime = new Genre { Title = "Crime" };
+                Genres?.AddRange(action, comedy, horror, crime);
+                 
+                var shining = new Movie { Title = "The Shining", Director = kubrick, Year = 1980, Poster = new byte[0] };
+                var pulpFiction = new Movie { Title = "Pulp Fiction", Director = tarantino, Year = 1994, Poster = new byte[0] };
+                var reservoirDogs = new Movie { Title = "Reservoir Dogs", Director = tarantino, Year = 1992, Poster = new byte[0] };
+
+                shining.Genres = new List<Genre> { action, horror };
+                pulpFiction.Genres = new List<Genre> { action, comedy };
+                reservoirDogs.Genres = new List<Genre> { action, crime };
+                Movies?.AddRange(shining, pulpFiction, reservoirDogs);
+                 
+                var user1 = new User { Login = "user1", Password = "password1" };
+                var user2 = new User { Login = "user2", Password = "password2" };
+                var user3 = new User { Login = "user3", Password = "password3" };
+                Users?.AddRange(user1, user2, user3);
+                 
+                var rating1 = new Rating { User = user1, Movie = shining, Grade = 5 };
+                var rating2 = new Rating { User = user2, Movie = shining, Grade = 4 };
+                var rating3 = new Rating { User = user3, Movie = shining, Grade = 3 };
+                var rating4 = new Rating { User = user1, Movie = pulpFiction, Grade = 5 };
+                var rating5 = new Rating { User = user2, Movie = pulpFiction, Grade = 4 };
+                var rating6 = new Rating { User = user3, Movie = pulpFiction, Grade = 3 };
+                var rating7 = new Rating { User = user1, Movie = reservoirDogs, Grade = 5 };
+                var rating8 = new Rating { User = user2, Movie = reservoirDogs, Grade = 4 };
+                var rating9 = new Rating { User = user3, Movie = reservoirDogs, Grade = 3 };
+                Ratings?.AddRange(rating1, rating2, rating3, rating4, rating5, rating6, rating7, rating8, rating9);
+            }
+            SaveChanges();
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -76,3 +76,7 @@ D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\bin\Debug\net8.0-windows\runtim
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\MovieCamp.csproj.AssemblyReference.cache
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\MovieCamp.csproj.CopyComplete
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\RegisterWindow.g.cs
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\LoginWindow.baml
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\RegisterWindow.baml

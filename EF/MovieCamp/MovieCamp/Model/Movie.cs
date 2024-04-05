@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MovieCamp.Model
 {
-    internal class Movie
+    public class Movie
     {
         public int Id { get; set; }
         public string Title { get; set; }
@@ -14,6 +14,6 @@ namespace MovieCamp.Model
         public virtual ICollection<Genre> Genres { get; set; }
         public int Year { get; set; }
         public virtual ICollection<Rating> Ratings { get; set; }
-
+        public byte[] Poster { get; set; }
     }
 }

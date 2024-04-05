@@ -1,4 +1,6 @@
 ﻿using MovieCamp.Model;
+using MovieCamp.View;
+using MovieCamp.ViewModel;
 using System.Configuration;
 using System.Data;
 using System.Windows;
@@ -20,10 +22,10 @@ namespace MovieCamp
                     //           select j;
                     //var staff = from em in db.Employees
                     //            select em;
-                    MainWindow view = new MainWindow();
+                    LoginWindow view = new LoginWindow();
+                    view.Show();
                     //MainViewModel viewModel = new MainViewModel(jobs, staff);
                    // view.DataContext = viewModel;
-                    view.Show();
                 }
             }
             catch (Exception ex)

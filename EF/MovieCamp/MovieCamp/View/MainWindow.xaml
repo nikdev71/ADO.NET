@@ -7,6 +7,52 @@
         mc:Ignorable="d"
         Title="MovieCamp" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Movie Camp" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox  Grid.Column="1" Height="25" Margin="10" VerticalAlignment="Center"/>
+        </Grid>
 
+        <ListView Grid.Row="1" Margin="10" ItemsSource="{Binding Movies}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding Poster}" Width="100" Height="150" Margin="5"/>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="{Binding Title}" FontSize="18" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding DirectorName}" TextWrapping="Wrap"/>
+                            <TextBlock Text="{Binding Year}" TextWrapping="Wrap"/>
+                            <ItemsControl ItemsSource="{Binding GenresVM}">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Title}" Margin="0,2,0,0" />
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                            <Button Content="Подробнее" Margin="0,5,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Grid.Row="2"  x:Name="MovieDetails" Visibility="Collapsed"  Margin="10">
+            <Image x:Name="PosterImage" Width="200" Height="300" HorizontalAlignment="Left"/>
+            <StackPanel Margin="220,0,0,0">
+                <TextBlock x:Name="TitleText" FontSize="24" FontWeight="Bold"/>
+                <TextBlock x:Name="DescriptionText" TextWrapping="Wrap"/>
+                <TextBlock x:Name="GenreText"/>
+                <TextBlock x:Name="ReleaseDateText"/>
+            </StackPanel>
+            <Button Content="Закрыть" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,10,0" />
+        </Grid>
     </Grid>
 </Window>

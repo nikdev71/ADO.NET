@@ -335,7 +335,7 @@ namespace IT_Company.ViewModel
                         return;
 
                     if (jpDelete != null)
-                    {
+                    { 
                         db.JobPositions.RemoveRange(jpDelete);
                         db.SaveChanges();
 

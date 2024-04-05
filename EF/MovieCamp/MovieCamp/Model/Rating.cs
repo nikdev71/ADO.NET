@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MovieCamp.Model
 {
-    internal class Rating
+    public class Rating
     {
         public int Id { get; set; }
         public virtual User User { get; set; }
