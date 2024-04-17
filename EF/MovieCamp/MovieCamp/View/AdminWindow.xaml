@@ -1,0 +1,151 @@
+﻿<Window x:Class="MovieCamp.View.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MovieCamp.View"
+        xmlns:local2="clr-namespace:MovieCamp.Converter"
+        mc:Ignorable="d"
+        Title="AdminWindow" MinHeight="550" MinWidth="800" WindowStartupLocation="CenterScreen" Background="#222222">
+    <Window.Resources>
+        <local2:DecimalPlaceConverter x:Key="DecimalPlaceConverter"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu Background="#222222">
+            <MenuItem Header="Add Movie" Command="{Binding AddMovie}"></MenuItem>
+            <MenuItem Header="Add Director" Command="{Binding AddDirector}"></MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+        <TextBox    Height="25" Margin="10" Text="{Binding SearchQuery, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center"/>
+        <ListView Grid.Row="1" x:Name="MovieListBox"    Margin="10" ItemsSource="{Binding Movies}" SelectedItem="{Binding SelectedMovie}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding Poster}" Width="100" Height="150" Margin="5"/>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="{Binding Title}" FontSize="18" FontWeight="Bold" HorizontalAlignment="Left"/>
+                            <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Producer: "></TextBlock>
+                                    <TextBlock Text="{Binding Director.Name}" TextWrapping="Wrap" Margin="0 0 5 0" HorizontalAlignment="Left"/>
+                                    <TextBlock Text="{Binding Director.LastName}" TextWrapping="Wrap" HorizontalAlignment="Left"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Year: "></TextBlock>
+                                <TextBlock Text="{Binding Year }" TextWrapping="Wrap" HorizontalAlignment="Left"/>
+                            </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Genres: "></TextBlock>
+                                    <ItemsControl ItemsSource="{Binding GenresVM}">
+                                        <ItemsControl.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <StackPanel Orientation="Horizontal" />
+                                            </ItemsPanelTemplate>
+                                        </ItemsControl.ItemsPanel>
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Title}" Margin="0,2,5,0" HorizontalAlignment="Left" />
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                    </ItemsControl>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Rating: "></TextBlock>
+                                    <TextBlock Text="{Binding AverageRating, Converter={StaticResource DecimalPlaceConverter}}" TextWrapping="Wrap" HorizontalAlignment="Left"/>
+                                </StackPanel>
+                            </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        </Grid>
+
+
+        <Grid Grid.Row="1"  x:Name="MovieDetails" Visibility="{Binding IsDetailsVisible}" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="PosterImage" Source="{Binding SelectedMovie.Poster}" Width="200"  HorizontalAlignment="Left"/>
+            <Button Grid.Row="1" Content="Выбрать изображение" Command="{Binding SelectImageCommand}"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+            <Grid Grid.Column="1" Grid.RowSpan="2" Margin="50,0,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="2*"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Title:" Margin ="10" HorizontalAlignment="Left" ></TextBlock>
+                <TextBox Grid.Column="1"  x:Name="TitleText" Text="{Binding SelectedMovie.Title}" FontSize="20" FontWeight="Bold"  Height="40"/>
+                <TextBlock Grid.Row="1" Text="Producer:" Margin ="10" HorizontalAlignment="Left"  ></TextBlock>
+                <ComboBox Grid.Row="1" Grid.Column="1"  ItemsSource="{Binding Directors}" SelectedIndex="{Binding DirectorIndex}" Height="20" Width="200" HorizontalAlignment="Left" Style="{StaticResource ComboBoxStyle}" Margin="10" >
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" ></TextBlock>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <TextBlock Grid.Row="2"  Text="Genre:" Margin ="10" HorizontalAlignment="Left" ></TextBlock>
+                <Grid Grid.Row="2" Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="That genres" ></TextBlock>
+                    <TextBlock Text="All genres" Grid.Column="1"></TextBlock>
+                    <ListBox  ItemsSource="{Binding SelectedMovie.GenresVM}"  SelectedIndex="{Binding CurrentGenreIndex}" Margin="5" Grid.Row="1">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Title}" />
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <ListBox Grid.Column="1"  ItemsSource="{Binding Genres}" SelectedIndex="{Binding GenreIndex}" Margin="5" Grid.Row="1">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Title}" />
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <StackPanel Grid.Column="2" Grid.RowSpan="2" VerticalAlignment="Center">
+                        <Button Command="{Binding AddGenre}" >Add Genre</Button>
+                        <Button Command="{Binding RemoveGenre}" >Remove Genre</Button>
+                    </StackPanel>
+                </Grid>
+                <TextBlock Grid.Row="3" Text="Year:" Margin ="10" HorizontalAlignment="Left" ></TextBlock>
+                <TextBox Grid.Row="3" Grid.Column="1" x:Name="ReleaseDateText" Text="{Binding SelectedMovie.Year}" Width="100" HorizontalAlignment="Left"/>
+                <TextBlock Grid.Row="4" Text="Descripyion:" Margin ="10" HorizontalAlignment="Left" ></TextBlock>
+                <ScrollViewer Grid.Row="4" Grid.Column="1" VerticalScrollBarVisibility="Auto">
+                    <TextBox x:Name="ReleaseDateText2" Text="{Binding SelectedMovie.Description}" TextWrapping="Wrap" Height="70"/>
+                </ScrollViewer>
+                <Button Grid.Row="5"   Content="{Binding BtnText}" Command="{Binding EditDetails}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" />
+                <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.Column="1">
+                    <Button   Content="Remove" Command="{Binding RemoveMovie}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" />
+                    <Button   Grid.Column="2" Content="Close" Command="{Binding CloseDetails}" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

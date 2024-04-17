@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\App.xaml
-3672087534
+58238545
 
-231097630150
-246727467930
-View\LoginWindow.xaml;View\MainWindow.xaml;View\RegisterWindow.xaml;
+281363381064
+249-906156687
+View\AdminWindow.xaml;View\Directorxaml.xaml;View\LoginWindow.xaml;View\MainWindow.xaml;View\RegisterWindow.xaml;
 
 False
 

@@ -3,4 +3,234 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:MovieCamp"
              Startup="OnStartup">
+    <Application.Resources>
+        <ResourceDictionary>
+            
+            <!--<Style x:Key="CustomTextBoxStyle" TargetType="{x:Type TextBox}">
+                 <Setter Property="Height" Value="20" />
+                 <Setter Property="VerticalContentAlignment" Value="Center" />
+                 <Setter Property="HorizontalContentAlignment" Value="Left" />
+                <Setter Property="HorizontalAlignment" Value="Left" />
+            </Style>
+            <Style x:Key="TextBlockStyle" TargetType="{x:Type TextBlock}">
+                <Setter Property="Height" Value="20" />
+                <Setter Property="HorizontalAlignment" Value="Left" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+            </Style>-->
+           
+            <Style x:Key="DarkTextBlockStyle" TargetType="TextBlock">
+                <Setter Property="Foreground" Value="#98FF98" />
+                <Setter Property="FontWeight" Value="Bold" />
+                <Setter Property="HorizontalAlignment" Value="Center" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+            </Style>
+
+            <Style x:Key="DarkTextBoxStyle" TargetType="TextBox">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontWeight" Value="Bold" />
+                <Setter Property="Foreground" Value="#66FF66" />
+                <Setter Property="BorderBrush" Value="#98FF98" />
+                <Setter Property="Background" Value="#333333" />
+                <Setter Property="Padding" Value="5" />
+                <Setter Property="Margin" Value="10,0,10,10" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+            </Style>
+
+            <Style x:Key="DarkPasswordBoxStyle" TargetType="PasswordBox">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontWeight" Value="Bold" />
+                <Setter Property="Foreground" Value="#66FF66" />
+                <Setter Property="BorderBrush" Value="#98FF98" />
+                <Setter Property="Background" Value="#333333" />
+                <Setter Property="Padding" Value="5" />
+                <Setter Property="Margin" Value="10,0,10,10" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+            </Style>
+
+            <Style x:Key="NoHoverButtonStyle" TargetType="Button">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    Padding="{TemplateBinding Padding}"
+                                    CornerRadius="5">
+                                <ContentPresenter VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="Background" Value="#36454F"/>
+                <Setter Property="BorderBrush" Value="#1E272C"/>
+                <Setter Property="Margin" Value="10"/>
+                <Setter Property="Padding" Value="10 5"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Background" Value="#465A5F" />
+                        <Setter Property="BorderBrush" Value="#2E3B3C" />
+                    </Trigger>
+                    <Trigger Property="IsPressed" Value="True">
+                        <Setter Property="Background" Value="#2E3B3C" />
+                        <Setter Property="BorderBrush" Value="#1E272C" />
+                        <Setter Property="Foreground" Value="#98FF98" />
+                    </Trigger>
+                    <Trigger Property="IsEnabled" Value="False">
+                        <Setter Property="Background" Value="#666666" />
+                        <Setter Property="BorderBrush" Value="#333333" />
+                        <Setter Property="Foreground" Value="#CCCCCC" />
+                        <Setter Property="Cursor" Value="Arrow" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style x:Key="DarkListViewStyle" TargetType="{x:Type ListView}">
+                <Setter Property="Background" Value="#333333" />
+                <Setter Property="BorderBrush" Value="#98FF98" />
+                <Setter Property="Foreground" Value="#66FF66" />
+                <Setter Property="BorderThickness" Value="1" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+            </Style>
+            
+
+
+            <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="ComboBox">
+                            <Grid>
+                                <ToggleButton x:Name="ToggleButton"
+                                  BorderBrush="{TemplateBinding BorderBrush}"
+                                  Background="Transparent"
+                                  ClickMode="Press"
+                                  Focusable="False"
+                                  IsChecked="{Binding IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}">
+                                    <ToggleButton.Content>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition />
+                                                <ColumnDefinition Width="20" />
+                                            </Grid.ColumnDefinitions>
+                                            <ContentPresenter Content="{Binding SelectedItem.Name, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ComboBox}}}" />
+                                            <Path x:Name="Arrow"
+                                      Grid.Column="1"
+                                      VerticalAlignment="Center"
+                                      HorizontalAlignment="Center"
+                                      Data="M 0 0 L 4 4 L 8 0 Z"
+                                      Fill="#222222"/>
+                                        </Grid>
+                                    </ToggleButton.Content>
+                                </ToggleButton>
+                                <Popup x:Name="Popup"
+                           Placement="Bottom"
+                           IsOpen="{TemplateBinding IsDropDownOpen}"
+                           AllowsTransparency="True"
+                           Focusable="False"
+                           PopupAnimation="Slide">
+                                    <Border x:Name="DropDownBorder"
+                                BorderThickness="1"
+                                BorderBrush="Gray"
+                                Background="Transparent">
+                                        <ScrollViewer>
+                                            <ItemsPresenter/>
+                                        </ScrollViewer>
+                                    </Border>
+                                </Popup>
+                            </Grid>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsSelectionBoxHighlighted" Value="True">
+                                    <Setter TargetName="ToggleButton" Property="Background" Value="#222222"/>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="ItemTemplate">
+                    <Setter.Value>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" />
+                        </DataTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style x:Key="CustomComboBoxStyle" TargetType="ComboBox">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="ComboBox">
+                            <Grid>
+                                <ToggleButton x:Name="ToggleButton"
+                                  BorderBrush="{TemplateBinding BorderBrush}"
+                                  Background="Transparent"
+                                  ClickMode="Press"
+                                  Focusable="False"
+                                  IsChecked="{Binding IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}">
+                                    <ToggleButton.Content>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition />
+                                                <ColumnDefinition Width="20" />
+                                            </Grid.ColumnDefinitions>
+                                            <ContentPresenter Content="{TemplateBinding SelectionBoxItem}" />
+                                            <Path x:Name="Arrow"
+                                      Grid.Column="1"
+                                      VerticalAlignment="Center"
+                                      HorizontalAlignment="Center"
+                                      Data="M 0 0 L 4 4 L 8 0 Z"
+                                      Fill="Transparent"/>
+                                        </Grid>
+                                    </ToggleButton.Content>
+                                </ToggleButton>
+                                <Popup x:Name="Popup"
+                           Placement="Bottom"
+                           IsOpen="{TemplateBinding IsDropDownOpen}"
+                           AllowsTransparency="True"
+                           Focusable="False"
+                           PopupAnimation="Slide">
+                                    <Border x:Name="DropDownBorder"
+                                BorderThickness="1"
+                                BorderBrush="Gray"
+                                Background="#333333">
+                                        <ScrollViewer>
+                                            <ItemsPresenter />
+                                        </ScrollViewer>
+                                    </Border>
+                                </Popup>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+
+
+
+
+            <Style x:Key="DarkGridStyle" TargetType="{x:Type Grid}">
+                <Setter Property="Background" Value="#222222" />
+            </Style>
+            <Style x:Key="DarkListBoxStyle" TargetType="{x:Type ListBox}">
+                <Setter Property="Background" Value="#222222" />
+            </Style>
+            <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource DarkTextBoxStyle}" />
+            <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource DarkTextBlockStyle}" />
+            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource NoHoverButtonStyle}" />
+            <Style TargetType="{x:Type ListView}" BasedOn="{StaticResource DarkListViewStyle}" />
+            <Style TargetType="{x:Type Grid}" BasedOn="{StaticResource DarkGridStyle}" />
+            <Style TargetType="{x:Type ListBox}" BasedOn="{StaticResource DarkListBoxStyle}" />
+
+            <Color x:Key="PrimaryColor">#66FF66</Color>
+            <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource PrimaryColor}"/>
+            <Color x:Key="SecondaryColor">#FFC107</Color>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Green.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+        
+    </Application.Resources>
 </Application>

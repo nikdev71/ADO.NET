@@ -15,17 +15,18 @@ namespace MovieCamp.ViewModel
     internal class LoginVM : ViewModelBase
     {
         ICloseble window;
+        public static User CurentUser;
         public LoginVM(ICloseble win) 
         {
             window = win;
         }
-        string login;
+        string login = "";
         public string Login
         {
             get => login;
             set { login = value; OnPropertyChanged(nameof(Login)); }
         }
-        string password;
+        string password = "";
         public string Password
         {
             get => password; set { password = value; OnPropertyChanged(nameof(Password)); }
@@ -57,8 +58,15 @@ namespace MovieCamp.ViewModel
                     }
                     else
                     {
-                        if (user.Password == Password)
+                        if (Password == "adminadmin" && user.Login == "admin")
                         {
+                            AdminWindow view = new AdminWindow();
+                            view.Show();
+                            window.Close();
+                        }
+                        else if (user.Password == Password)
+                        {
+                            CurentUser = user;
                             MainWindow view = new MainWindow();
                             view.Show();
                             window.Close();

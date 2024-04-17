@@ -59,6 +59,10 @@ namespace MovieCamp.ViewModel
                     {
                         MessageBox.Show("Пользователь с таким логином уже существует в базе данных.");
                     }
+                    else if (Password.Length <8)
+                    {
+                        MessageBox.Show("Пароль должен быть не менее 8 символов.");
+                    }
                     else
                     {
                         User newuser = new User { Login = login, Password = password };
@@ -77,8 +81,8 @@ namespace MovieCamp.ViewModel
         }
         bool RegisterUserCE()
         {
-            return login != null && password!= null;
-            //repeatPassword == password;
+            return login != null && password!= null
+            && repeatPassword == password;
         }
     }
 }

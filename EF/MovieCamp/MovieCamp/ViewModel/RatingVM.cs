@@ -30,5 +30,6 @@ namespace MovieCamp.ViewModel
             get { return rating.Grade; }
             set { rating.Grade = value; OnPropertyChanged(nameof(Grade)); }
         }
+        
     }
 }

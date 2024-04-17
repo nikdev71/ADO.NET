@@ -80,3 +80,12 @@ D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\L
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\RegisterWindow.g.cs
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\LoginWindow.baml
 D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\RegisterWindow.baml
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\AdminWindow.g.cs
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\AdminWindow.baml
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\App.baml
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\Directorxaml.g.cs
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\View\Directorxaml.baml
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Проекты\ADO.NET\EF\MovieCamp\MovieCamp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

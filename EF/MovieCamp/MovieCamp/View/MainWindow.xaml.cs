@@ -24,7 +24,10 @@ namespace MovieCamp
             using (var db = new MovieCampContext())
             {
                 var quert = db.Movies.Select(x => x);
-                DataContext = new MainVM(quert);
+                var quert2 = db.Ratings.Select(x => x);
+                var curentUser = LoginVM.CurentUser;
+                
+                DataContext = new MainVM(quert,quert2,curentUser);
             }
         }
     }

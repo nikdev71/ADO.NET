@@ -9,52 +9,94 @@ using System.Threading.Tasks;
 
 namespace MovieCamp.ViewModel
 {
-    internal class MovieVM: ViewModelBase
+    internal class MovieVM : ViewModelBase
     {
         Movie movie;
         ObservableCollection<GenreVM> genresVM;
-        public MovieVM(Movie mv, List<Genre> genres) 
+        List<Rating>? ratings; 
+        public Director director;
+
+        public MovieVM()
+        {
+            using (var db = new MovieCampContext())
+            {
+                movie = new Movie() { Year=1901};
+                this.ratings = new List<Rating>();
+                genresVM = new ObservableCollection<GenreVM>();
+                this.director = new Director();
+            }
+
+        }
+        public MovieVM(Movie mv, List<Genre> genres, Director dir, List<Rating>? rat)
         {
             movie = mv;
+            ratings = rat; 
+            director = dir;
             genresVM = new ObservableCollection<GenreVM>(genres.Select(g => new GenreVM(g)));
         }
 
+
+        public int Id
+        {
+            get { return movie.Id; }
+            set { movie.Id = value; OnPropertyChanged(nameof(Id)); }
+        }
         public string Title
         {
-            get {  return movie.Title;}
+            get { return movie.Title; }
             set { movie.Title = value; OnPropertyChanged(nameof(Title)); }
         }
+
         public string DirectorName
         {
-            get { return movie.Director.Name; }
-            set { movie.Director.Name = value; OnPropertyChanged(nameof(DirectorName)); }
+            get { return director.Name +" "+ director.LastName; }
+            set { director.Name = value; OnPropertyChanged(nameof(DirectorName)); }
         }
+
         public string DirectorLastName
         {
             get { return movie.Director.LastName; }
             set { movie.Director.LastName = value; OnPropertyChanged(nameof(DirectorLastName)); }
         }
+
         public int Year
         {
             get { return movie.Year; }
             set { movie.Year = value; OnPropertyChanged(nameof(Year)); }
         }
-        public byte[] Poster
+
+        public string Poster
         {
             get { return movie.Poster; }
             set { movie.Poster = value; OnPropertyChanged(nameof(Poster)); }
         }
-        //public IEnumerable<Genre> Genres 
-        //{ 
-        //    get { return movie.Genres; }
-        //}
+        public string Description
+        {
+            get { return movie.Description; }
+            set { movie.Description = value; OnPropertyChanged(nameof(Description)); }
+        }
         public ObservableCollection<GenreVM> GenresVM
         {
             get { return genresVM; }
         }
-        public IEnumerable<Rating> Ratings
-        {
-            get { return movie.Ratings; }
+        public Director Director 
+        {   get { return director; }
+            set { director = value; OnPropertyChanged(nameof(Director));}
         }
+        double averageRating;
+        public double AverageRating
+        {
+            get
+            {
+                averageRating = ratings!.Any() ? ratings!.Where(r => r.Movie.Id == movie.Id).Average(r => r.Grade) : 0;
+                return averageRating;
+            }
+            set
+            {
+                averageRating = value;
+            }
+        }
+        
     }
+
 }

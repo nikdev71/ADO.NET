@@ -1,0 +1,27 @@
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Material Design.exe
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Material Design.deps.json
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Material Design.runtimeconfig.json
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Material Design.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Material Design.pdb
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.csproj.AssemblyReference.cache
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\App.g.cs
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design_MarkupCompile.cache
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design_MarkupCompile.lref
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\App.baml
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.g.resources
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.AssemblyInfoInputs.cache
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.AssemblyInfo.cs
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.csproj.CoreCompileInputs.cache
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.sourcelink.json
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.csproj.CopyComplete
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\refint\Material Design.dll
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.pdb
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\Material Design.genruntimeconfig.cache
+D:\Проекты\ADO.NET\Material Design\Material Design\obj\Debug\net8.0-windows\ref\Material Design.dll
