@@ -29,7 +29,10 @@
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition Width="Auto"></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <TextBlock Text="Movie Camp" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <materialDesign:PackIcon  Kind="Campfire" Width="35" Height="35" Foreground="#98FF98" Margin="0 0 5 0" />
+                <TextBlock Text="Movie Camp" FontSize="24" />
+            </StackPanel>
             <TextBox  Grid.Column="1" Height="25" Margin="10" Text="{Binding SearchQuery, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center"/>
             <ComboBox Grid.Column="2" ItemsSource="{Binding Sorting}" SelectedItem="{Binding SelectedSortCriteria}" Style="{StaticResource CustomComboBoxStyle}" materialDesign:ComboBoxAssist.MaxLength="2" materialDesign:HintAssist.Hint="Search" materialDesign:HintAssist.HintOpacity=".26" Width="120" Height="30" Margin="5" />
         </Grid>

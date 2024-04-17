@@ -298,6 +298,8 @@ namespace MovieCamp.ViewModel
                 {
                     var query = db.Directors.Select(x => x);
                     Directors = new ObservableCollection<DirectorVM>(query.Select(q=> new DirectorVM(q)));
+                    OnPropertyChanged(nameof(Movies));
+                    OnPropertyChanged(nameof(Directors));
                 }
             }
             catch (Exception ex)

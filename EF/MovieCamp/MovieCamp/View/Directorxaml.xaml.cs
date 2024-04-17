@@ -1,4 +1,5 @@
-﻿using MovieCamp.ViewModel;
+﻿using MovieCamp.Model;
+using MovieCamp.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,7 +24,11 @@ namespace MovieCamp.View
         public Directorxaml()
         {
             InitializeComponent();
-            DataContext = new AddDirectorVM(this);
+            using (var db = new MovieCampContext())
+            {
+                var directors = db.Directors.Select(d=>d);
+                DataContext = new AddDirectorVM(this, directors);
+            }
         }
     }
 }

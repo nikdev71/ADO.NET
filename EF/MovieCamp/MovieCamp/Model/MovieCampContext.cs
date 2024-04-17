@@ -56,16 +56,16 @@ namespace MovieCamp.Model
                 var jenson = new Director { Name = "Vicky", LastName = "Jenson", Age = 59 };
                 Directors?.AddRange(scott, zemeckis, columbus, cameron, howard, besson, nolan2, fincher2, jackson2, adamson, jenson);
 
-                var gladiator = new Movie { Title = "Gladiator", Director = scott, Year = 2000, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0d/Gladiator_ver1.jpg/220px-Gladiator_ver1.jpg", Description = "Эпическая история о генерале, превращенном в раба, который восстает против императора Рима." };
-                var backToTheFuture = new Movie { Title = "Back to the Future", Director = zemeckis, Year = 1985, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0b/Back_to_the_Future.jpg/220px-Back_to_the_Future.jpg", Description = "Приключенческая комедия о молодом изобретателе, путешествующем во времени на машине времени." };
-                var harryPotter = new Movie { Title = "Harry Potter and the Philosopher's Stone", Director = columbus, Year = 2001, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/9/9c/Harry_Potter_and_the_Philosopher%27s_Stone.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone.jpg", Description = "Приключенческий фильм о мальчике-волшебнике, отправляющемся в Школу чародейства и волшебства Хогвартс." };
-                var avatar = new Movie { Title = "Avatar", Director = cameron, Year = 2009, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f2/Avatar_official.jpg/220px-Avatar_official.jpg", Description = "Научно-фантастическая сага об исследовании далекой планеты Пандоры и борьбе за ее ресурсы." };
-                var aBeautifulMind = new Movie { Title = "A Beautiful Mind", Director = howard, Year = 2001, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/5/58/A_beautiful_mind.jpg/220px-A_beautiful_mind.jpg", Description = "Драма о жизни математика Джона Нэша, страдающего от шизофрении, и его борьбе с болезнью." };
-                var leon = new Movie { Title = "Leon: The Professional", Director = besson, Year = 1994, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/Leon_poster.jpg/220px-Leon_poster.jpg", Description = "Триллер о профессиональном убийце, который становится опекуном 12-летней девочки." };
-                var darkKnight = new Movie { Title = "The Dark Knight", Director = nolan2, Year = 2008, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8a/Dark_Knight.jpg/220px-Dark_Knight.jpg", Description = "Боевик о борьбе Бэтмена с преступным гениями, включая Жокера." };
-                var theGame = new Movie { Title = "The Game", Director = fincher2, Year = 1997, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/6/61/The_Game_1997.jpg/220px-The_Game_1997.jpg", Description = "Триллер о миллионере, втянутом в загадочную игру, которая становится все более опасной." };
-                var lordOfTheRings2 = new Movie { Title = "The Lord of the Rings: The Return of the King", Director = jackson2, Year = 2003, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/7/7a/The_Lord_of_the_Rings_The_Return_of_the_King.jpg/220px-The_Lord_of_the_Rings_The_Return_of_the_King.jpg", Description = "Финальная часть эпической трилогии о борьбе за Средиземье." };
-                var shrek = new Movie { Title = "Shrek", Director = adamson, Year = 2001, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/8/83/Shrek.jpg/220px-Shrek.jpg", Description = "Комедийный мультфильм о зеленом огре по имени Шрэк, который отправляется спасать принцессу из замка." };
+                var gladiator = new Movie { Title = "Gladiator", Director = scott, Year = 2000, Poster = "https://upload.wikimedia.org/wikipedia/ru/thumb/f/fe/Gladiatorteaser.jpg/204px-Gladiatorteaser.jpg", Description = "Эпическая история о генерале, превращенном в раба, который восстает против императора Рима." };
+                var backToTheFuture = new Movie { Title = "Back to the Future", Director = zemeckis, Year = 1985, Poster = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUh4RTEJ4lgGmKePrUaL_TowdW6paERH9zVzMu79jy1WTvJbDDMV4hshc13Nt6KWEj2WuOXqoUAtHDXskOI5ZFkOsoGT5VTBN0ZHCoa38", Description = "Приключенческая комедия о молодом изобретателе, путешествующем во времени на машине времени." };
+                var harryPotter = new Movie { Title = "Harry Potter and the Philosopher's Stone", Director = columbus, Year = 2001, Poster = "https://play-lh.googleusercontent.com/Cv6USkOqrTAKbDCFIoAbMz9xB5lSYEaRyT-Te1rEue-T8Mg4U65m4FcP4azrgaOWVhqDvqdleVtk02z6gRo", Description = "Приключенческий фильм о мальчике-волшебнике, отправляющемся в Школу чародейства и волшебства Хогвартс." };
+                var avatar = new Movie { Title = "Avatar", Director = cameron, Year = 2009, Poster = "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg", Description = "Научно-фантастическая сага об исследовании далекой планеты Пандоры и борьбе за ее ресурсы." };
+                var aBeautifulMind = new Movie { Title = "A Beautiful Mind", Director = howard, Year = 2001, Poster = "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg", Description = "Драма о жизни математика Джона Нэша, страдающего от шизофрении, и его борьбе с болезнью." };
+                var leon = new Movie { Title = "Leon: The Professional", Director = besson, Year = 1994, Poster = "https://upload.wikimedia.org/wikipedia/ru/e/e1/L%C3%A9on_poster.JPG", Description = "Триллер о профессиональном убийце, который становится опекуном 12-летней девочки." };
+                var darkKnight = new Movie { Title = "The Dark Knight", Director = nolan2, Year = 2008, Poster = "https://upload.wikimedia.org/wikipedia/ru/f/f4/%D0%A2%D1%91%D0%BC%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%282008%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg", Description = "Боевик о борьбе Бэтмена с преступным гениями, включая Жокера." };
+                var theGame = new Movie { Title = "The Game", Director = fincher2, Year = 1997, Poster = "https://upload.wikimedia.org/wikipedia/ru/5/5a/%D0%98%D0%B3%D1%80%D0%B0.jpg", Description = "Триллер о миллионере, втянутом в загадочную игру, которая становится все более опасной." };
+                var lordOfTheRings2 = new Movie { Title = "The Lord of the Rings: The Return of the King", Director = jackson2, Year = 2003, Poster = "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg", Description = "Финальная часть эпической трилогии о борьбе за Средиземье." };
+                var shrek = new Movie { Title = "Shrek", Director = adamson, Year = 2001, Poster = "https://play-lh.googleusercontent.com/6eRpIKSEHPNny49xvp28qdODpI2F3rH7vvUjk7xoqHm54JHEwITQtv3rwuLkk838GkZPYjyUOONb8cEM5bM", Description = "Комедийный мультфильм о зеленом огре по имени Шрэк, который отправляется спасать принцессу из замка." };
 
                
 
@@ -225,6 +225,10 @@ namespace MovieCamp.Model
                 entity.Property(d => d.LastName).HasMaxLength(30);
                 entity.Property(u => u.Age).HasDefaultValue(18);
                 entity.ToTable(t => t.HasCheckConstraint("Age", "Age >0 AND Age <120"));
+                modelBuilder.Entity<Movie>()
+                            .HasOne(m => m.Director)
+                            .WithMany(d => d.Movies)
+                            .OnDelete(DeleteBehavior.Cascade);
 
             });
             modelBuilder.Entity<Genre>(entity =>

@@ -54,7 +54,7 @@ namespace MovieCamp.ViewModel
 
                     if (user == null)
                     {
-                        MessageBox.Show("Пользователь с таким логином не найден.");
+                        MessageBox.Show("Неверный логин или пароль");
                     }
                     else
                     {
@@ -73,7 +73,7 @@ namespace MovieCamp.ViewModel
                         }
                         else
                         {
-                            MessageBox.Show("Неверный пароль.");
+                            MessageBox.Show("Неверный логин или пароль");
                         }
                     }
                 }

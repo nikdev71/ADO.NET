@@ -5,9 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MovieCamp.View"
         mc:Ignorable="d"
-        Title="Directorxaml" Height="300" Width="400">
+        Title="Directorxaml" Height="300" Width="400" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
@@ -23,6 +25,18 @@
         <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding DirectorName, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
         <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding DirectorLastName, UpdateSourceTrigger=PropertyChanged}"></TextBox>
         <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}"></TextBox>
-        <Button Grid.ColumnSpan="2" Grid.Row="3" Width="150" Command="{Binding Add}" >Добавить в базу</Button>
+        <Button  Grid.ColumnSpan="2" Grid.Row="3" Command="{Binding Add}" >Добавить в базу</Button>
+        <ComboBox Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Left"  ItemsSource="{Binding Directors}" SelectedIndex="{Binding DirectorIndex}" Height="20" Width="220" Style="{StaticResource ComboBoxStyle}" Margin="10" >
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" ></TextBlock>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <StackPanel Grid.ColumnSpan="2" Grid.Row="5" Orientation="Horizontal">
+            <Button   Command="{Binding Edit}" >Изменить выбрранного</Button>
+            <Button   Command="{Binding Remove}" >Удалить выбранного</Button>
+        </StackPanel>
+        
     </Grid>
 </Window>

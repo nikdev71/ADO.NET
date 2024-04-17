@@ -133,7 +133,7 @@
                                     <Border x:Name="DropDownBorder"
                                 BorderThickness="1"
                                 BorderBrush="Gray"
-                                Background="Transparent">
+                                Background="#333333">
                                         <ScrollViewer>
                                             <ItemsPresenter/>
                                         </ScrollViewer>
